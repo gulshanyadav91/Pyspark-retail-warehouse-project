@@ -1,0 +1,301 @@
+order_id,order_date,customer_id,customer_name,city,state,product_id,product_name,category,quantity,unit_price,discount_pct,payment_method,order_status
+ORD00001,2025-01-12,1008,Myra Nair,Kochi,Kerala,206,Desk Lamp,Furniture,4,999,0.05,Credit Card,COMPLETED
+ORD00002,2025-01-23,1003,Kabir Rao,Bengaluru,Karnataka,203,USB-C Hub,Accessories,3,1899,0.1,Debit Card,COMPLETED
+ORD00003,2025-02-03,1010,Zara Joshi,Jaipur,Rajasthan,201,Wireless Mouse,Accessories,2,799,0.15,Net Banking,COMPLETED
+ORD00004,2025-02-14,1005,Ishaan Gupta,Delhi,Delhi,206,Desk Lamp,Furniture,1,999,0,Cash on Delivery,COMPLETED
+ORD00005,2025-02-25,1012,Kiara Roy,Indore,Madhya Pradesh,203,USB-C Hub,Accessories,4,1899,0.05,UPI,COMPLETED
+ORD00006,2025-03-08,1007,Reyansh Das,Kolkata,West Bengal,201,Wireless Mouse,Accessories,3,799,0.1,Credit Card,COMPLETED
+ORD00007,2025-03-19,1002,Diya Shah,Pune,Maharashtra,206,Desk Lamp,Furniture,2,999,0.15,Debit Card,COMPLETED
+ORD00008,2025-03-30,1009,Arjun Patel,Ahmedabad,Gujarat,203,USB-C Hub,Accessories,1,1899,0,Net Banking,COMPLETED
+ORD00009,2025-04-10,1004,Anaya Iyer,Chennai,Tamil Nadu,201,Wireless Mouse,Accessories,4,799,0.05,Cash on Delivery,COMPLETED
+ORD00010,2025-04-21,1011,Vihaan Sen,Lucknow,Uttar Pradesh,206,Desk Lamp,Furniture,3,999,0.1,UPI,COMPLETED
+ORD00011,2025-05-02,1006,Sara Khan,Hyderabad,Telangana,203,USB-C Hub,Accessories,2,1899,0.15,Credit Card,COMPLETED
+ORD00012,2025-05-13,1001,Aarav Mehta,Mumbai,Maharashtra,201,Wireless Mouse,Accessories,1,799,0,Debit Card,COMPLETED
+ORD00013,2025-05-24,1008,Myra Nair,Kochi,Kerala,206,Desk Lamp,Furniture,4,999,0.05,Net Banking,COMPLETED
+ORD00014,2025-06-04,1003,Kabir Rao,Bengaluru,Karnataka,203,USB-C Hub,Accessories,3,1899,0.1,Cash on Delivery,COMPLETED
+ORD00015,2025-06-15,1010,Zara Joshi,Jaipur,Rajasthan,201,Wireless Mouse,Accessories,2,799,0.15,UPI,COMPLETED
+ORD00016,2025-06-26,1005,Ishaan Gupta,Delhi,Delhi,206,Desk Lamp,Furniture,1,999,0,Credit Card,COMPLETED
+ORD00017,2025-07-07,1012,Kiara Roy,Indore,Madhya Pradesh,203,USB-C Hub,Accessories,4,1899,0.05,Debit Card,COMPLETED
+ORD00018,2025-07-18,1007,Reyansh Das,Kolkata,West Bengal,201,Wireless Mouse,Accessories,3,799,0.1,Net Banking,COMPLETED
+ORD00019,2025-07-29,1002,Diya Shah,Pune,Maharashtra,206,Desk Lamp,Furniture,2,999,0.15,Cash on Delivery,COMPLETED
+ORD00020,2025-08-09,1009,Arjun Patel,Ahmedabad,Gujarat,203,USB-C Hub,Accessories,1,1899,0,UPI,COMPLETED
+ORD00021,2025-08-20,1004,Anaya Iyer,Chennai,Tamil Nadu,201,Wireless Mouse,Accessories,4,799,0.05,Credit Card,COMPLETED
+ORD00022,2025-08-31,1011,Vihaan Sen,Lucknow,Uttar Pradesh,206,Desk Lamp,Furniture,3,999,0.1,Debit Card,COMPLETED
+ORD00023,2025-09-11,1006,Sara Khan,Hyderabad,Telangana,203,USB-C Hub,Accessories,2,1899,0.15,Net Banking,COMPLETED
+ORD00024,2025-09-22,1001,Aarav Mehta,Mumbai,Maharashtra,201,Wireless Mouse,Accessories,1,799,0,Cash on Delivery,COMPLETED
+ORD00025,2025-10-03,1008,Myra Nair,Kochi,Kerala,206,Desk Lamp,Furniture,4,999,0.05,UPI,COMPLETED
+ORD00026,2025-10-14,1003,Kabir Rao,Bengaluru,Karnataka,203,USB-C Hub,Accessories,3,1899,0.1,Credit Card,COMPLETED
+ORD00027,2025-10-25,1010,Zara Joshi,Jaipur,Rajasthan,201,Wireless Mouse,Accessories,2,799,0.15,Debit Card,COMPLETED
+ORD00028,2025-11-05,1005,Ishaan Gupta,Delhi,Delhi,206,Desk Lamp,Furniture,1,999,0,Net Banking,COMPLETED
+ORD00029,2025-11-16,1012,Kiara Roy,Indore,Madhya Pradesh,203,USB-C Hub,Accessories,4,1899,0.05,Cash on Delivery,CANCELLED
+ORD00030,2025-11-27,1007,Reyansh Das,Kolkata,West Bengal,201,Wireless Mouse,Accessories,3,799,0.1,UPI,COMPLETED
+ORD00031,2025-12-08,1002,Diya Shah,Pune,Maharashtra,206,Desk Lamp,Furniture,2,999,0.15,Credit Card,RETURNED
+ORD00032,2025-12-19,1009,Arjun Patel,Ahmedabad,Gujarat,203,USB-C Hub,Accessories,1,1899,0,Debit Card,COMPLETED
+ORD00033,2025-12-30,1004,Anaya Iyer,Chennai,Tamil Nadu,201,Wireless Mouse,Accessories,4,799,0.05,Net Banking,COMPLETED
+ORD00034,2025-01-10,1011,Vihaan Sen,Lucknow,Uttar Pradesh,206,Desk Lamp,Furniture,3,999,0.1,Cash on Delivery,COMPLETED
+ORD00035,2025-01-21,1006,Sara Khan,Hyderabad,Telangana,203,USB-C Hub,Accessories,2,1899,0.15,UPI,COMPLETED
+ORD00036,2025-02-01,1001,Aarav Mehta,Mumbai,Maharashtra,201,Wireless Mouse,Accessories,1,799,0,Credit Card,COMPLETED
+ORD00037,2025-02-12,1008,Myra Nair,Kochi,Kerala,206,Desk Lamp,Furniture,4,999,0.05,Debit Card,COMPLETED
+ORD00038,2025-02-23,1003,Kabir Rao,Bengaluru,Karnataka,203,USB-C Hub,Accessories,3,1899,0.1,Net Banking,COMPLETED
+ORD00039,2025-03-06,1010,Zara Joshi,Jaipur,Rajasthan,201,Wireless Mouse,Accessories,2,799,0.15,Cash on Delivery,COMPLETED
+ORD00040,2025-03-17,1005,Ishaan Gupta,Delhi,Delhi,206,Desk Lamp,Furniture,1,999,0,UPI,COMPLETED
+ORD00041,2025-03-28,1012,Kiara Roy,Indore,Madhya Pradesh,203,USB-C Hub,Accessories,4,1899,0.05,Credit Card,COMPLETED
+ORD00042,2025-04-08,1007,Reyansh Das,Kolkata,West Bengal,201,Wireless Mouse,Accessories,3,799,0.1,Debit Card,COMPLETED
+ORD00043,2025-04-19,1002,Diya Shah,Pune,Maharashtra,206,Desk Lamp,Furniture,2,999,0.15,Net Banking,COMPLETED
+ORD00044,2025-04-30,1009,Arjun Patel,Ahmedabad,Gujarat,203,USB-C Hub,Accessories,1,1899,0,Cash on Delivery,COMPLETED
+ORD00045,2025-05-11,1004,Anaya Iyer,Chennai,Tamil Nadu,201,Wireless Mouse,Accessories,4,799,0.05,UPI,COMPLETED
+ORD00046,2025-05-22,1011,Vihaan Sen,Lucknow,Uttar Pradesh,206,Desk Lamp,Furniture,3,999,0.1,Credit Card,COMPLETED
+ORD00047,2025-06-02,1006,Sara Khan,Hyderabad,Telangana,203,USB-C Hub,Accessories,2,1899,0.15,Debit Card,COMPLETED
+ORD00048,2025-06-13,1001,Aarav Mehta,Mumbai,Maharashtra,201,Wireless Mouse,Accessories,1,799,0,Net Banking,COMPLETED
+ORD00049,2025-06-24,1008,Myra Nair,Kochi,Kerala,206,Desk Lamp,Furniture,4,999,0.05,Cash on Delivery,COMPLETED
+ORD00050,2025-07-05,1003,Kabir Rao,Bengaluru,Karnataka,203,USB-C Hub,Accessories,3,1899,0.1,UPI,COMPLETED
+ORD00051,2025-07-16,1010,Zara Joshi,Jaipur,Rajasthan,201,Wireless Mouse,Accessories,2,799,0.15,Credit Card,COMPLETED
+ORD00052,2025-07-27,1005,Ishaan Gupta,Delhi,Delhi,206,Desk Lamp,Furniture,1,999,0,Debit Card,COMPLETED
+ORD00053,2025-08-07,1012,Kiara Roy,Indore,Madhya Pradesh,203,USB-C Hub,Accessories,4,1899,0.05,Net Banking,COMPLETED
+ORD00054,2025-08-18,1007,Reyansh Das,Kolkata,West Bengal,201,Wireless Mouse,Accessories,3,799,0.1,Cash on Delivery,COMPLETED
+ORD00055,2025-08-29,1002,Diya Shah,Pune,Maharashtra,206,Desk Lamp,Furniture,2,999,0.15,UPI,COMPLETED
+ORD00056,2025-09-09,1009,Arjun Patel,Ahmedabad,Gujarat,203,USB-C Hub,Accessories,1,1899,0,Credit Card,COMPLETED
+ORD00057,2025-09-20,1004,Anaya Iyer,Chennai,Tamil Nadu,201,Wireless Mouse,Accessories,4,799,0.05,Debit Card,COMPLETED
+ORD00058,2025-10-01,1011,Vihaan Sen,Lucknow,Uttar Pradesh,206,Desk Lamp,Furniture,3,999,0.1,Net Banking,CANCELLED
+ORD00059,2025-10-12,1006,Sara Khan,Hyderabad,Telangana,203,USB-C Hub,Accessories,2,1899,0.15,Cash on Delivery,COMPLETED
+ORD00060,2025-10-23,1001,Aarav Mehta,Mumbai,Maharashtra,201,Wireless Mouse,Accessories,1,799,0,UPI,COMPLETED
+ORD00061,2025-11-03,1008,Myra Nair,Kochi,Kerala,206,Desk Lamp,Furniture,4,999,0.05,Credit Card,COMPLETED
+ORD00062,2025-11-14,1003,Kabir Rao,Bengaluru,Karnataka,203,USB-C Hub,Accessories,3,1899,0.1,Debit Card,RETURNED
+ORD00063,2025-11-25,1010,Zara Joshi,Jaipur,Rajasthan,201,Wireless Mouse,Accessories,2,799,0.15,Net Banking,COMPLETED
+ORD00064,2025-12-06,1005,Ishaan Gupta,Delhi,Delhi,206,Desk Lamp,Furniture,1,999,0,Cash on Delivery,COMPLETED
+ORD00065,2025-12-17,1012,Kiara Roy,Indore,Madhya Pradesh,203,USB-C Hub,Accessories,4,1899,0.05,UPI,COMPLETED
+ORD00066,2025-12-28,1007,Reyansh Das,Kolkata,West Bengal,201,Wireless Mouse,Accessories,3,799,0.1,Credit Card,COMPLETED
+ORD00067,2025-01-08,1002,Diya Shah,Pune,Maharashtra,206,Desk Lamp,Furniture,2,999,0.15,Debit Card,COMPLETED
+ORD00068,2025-01-19,1009,Arjun Patel,Ahmedabad,Gujarat,203,USB-C Hub,Accessories,1,1899,0,Net Banking,COMPLETED
+ORD00069,2025-01-30,1004,Anaya Iyer,Chennai,Tamil Nadu,201,Wireless Mouse,Accessories,4,799,0.05,Cash on Delivery,COMPLETED
+ORD00070,2025-02-10,1011,Vihaan Sen,Lucknow,Uttar Pradesh,206,Desk Lamp,Furniture,3,999,0.1,UPI,COMPLETED
+ORD00071,2025-02-21,1006,Sara Khan,Hyderabad,Telangana,203,USB-C Hub,Accessories,2,1899,0.15,Credit Card,COMPLETED
+ORD00072,2025-03-04,1001,Aarav Mehta,Mumbai,Maharashtra,201,Wireless Mouse,Accessories,1,799,0,Debit Card,COMPLETED
+ORD00073,2025-03-15,1008,Myra Nair,Kochi,Kerala,206,Desk Lamp,Furniture,4,999,0.05,Net Banking,COMPLETED
+ORD00074,2025-03-26,1003,Kabir Rao,Bengaluru,Karnataka,203,USB-C Hub,Accessories,3,1899,0.1,Cash on Delivery,COMPLETED
+ORD00075,2025-04-06,1010,Zara Joshi,Jaipur,Rajasthan,201,Wireless Mouse,Accessories,2,799,0.15,UPI,COMPLETED
+ORD00076,2025-04-17,1005,Ishaan Gupta,Delhi,Delhi,206,Desk Lamp,Furniture,1,999,0,Credit Card,COMPLETED
+ORD00077,2025-04-28,1012,Kiara Roy,Indore,Madhya Pradesh,203,USB-C Hub,Accessories,4,1899,0.05,Debit Card,COMPLETED
+ORD00078,2025-05-09,1007,Reyansh Das,Kolkata,West Bengal,201,Wireless Mouse,Accessories,3,799,0.1,Net Banking,COMPLETED
+ORD00079,2025-05-20,1002,Diya Shah,Pune,Maharashtra,206,Desk Lamp,Furniture,2,999,0.15,Cash on Delivery,COMPLETED
+ORD00080,2025-05-31,1009,Arjun Patel,Ahmedabad,Gujarat,203,USB-C Hub,Accessories,1,1899,0,UPI,COMPLETED
+ORD00081,2025-06-11,1004,Anaya Iyer,Chennai,Tamil Nadu,201,Wireless Mouse,Accessories,4,799,0.05,Credit Card,COMPLETED
+ORD00082,2025-06-22,1011,Vihaan Sen,Lucknow,Uttar Pradesh,206,Desk Lamp,Furniture,3,999,0.1,Debit Card,COMPLETED
+ORD00083,2025-07-03,1006,Sara Khan,Hyderabad,Telangana,203,USB-C Hub,Accessories,2,1899,0.15,Net Banking,COMPLETED
+ORD00084,2025-07-14,1001,Aarav Mehta,Mumbai,Maharashtra,201,Wireless Mouse,Accessories,1,799,0,Cash on Delivery,COMPLETED
+ORD00085,2025-07-25,1008,Myra Nair,Kochi,Kerala,206,Desk Lamp,Furniture,4,999,0.05,UPI,COMPLETED
+ORD00086,2025-08-05,1003,Kabir Rao,Bengaluru,Karnataka,203,USB-C Hub,Accessories,3,1899,0.1,Credit Card,COMPLETED
+ORD00087,2025-08-16,1010,Zara Joshi,Jaipur,Rajasthan,201,Wireless Mouse,Accessories,2,799,0.15,Debit Card,CANCELLED
+ORD00088,2025-08-27,1005,Ishaan Gupta,Delhi,Delhi,206,Desk Lamp,Furniture,1,999,0,Net Banking,COMPLETED
+ORD00089,2025-09-07,1012,Kiara Roy,Indore,Madhya Pradesh,203,USB-C Hub,Accessories,4,1899,0.05,Cash on Delivery,COMPLETED
+ORD00090,2025-09-18,1007,Reyansh Das,Kolkata,West Bengal,201,Wireless Mouse,Accessories,3,799,0.1,UPI,COMPLETED
+ORD00091,2025-09-29,1002,Diya Shah,Pune,Maharashtra,206,Desk Lamp,Furniture,2,999,0.15,Credit Card,COMPLETED
+ORD00092,2025-10-10,1009,Arjun Patel,Ahmedabad,Gujarat,203,USB-C Hub,Accessories,1,1899,0,Debit Card,COMPLETED
+ORD00093,2025-10-21,1004,Anaya Iyer,Chennai,Tamil Nadu,201,Wireless Mouse,Accessories,4,799,0.05,Net Banking,RETURNED
+ORD00094,2025-11-01,1011,Vihaan Sen,Lucknow,Uttar Pradesh,206,Desk Lamp,Furniture,3,999,0.1,Cash on Delivery,COMPLETED
+ORD00095,2025-11-12,1006,Sara Khan,Hyderabad,Telangana,203,USB-C Hub,Accessories,2,1899,0.15,UPI,COMPLETED
+ORD00096,2025-11-23,1001,Aarav Mehta,Mumbai,Maharashtra,201,Wireless Mouse,Accessories,1,799,0,Credit Card,COMPLETED
+ORD00097,2025-12-04,1008,Myra Nair,Kochi,Kerala,206,Desk Lamp,Furniture,4,999,0.05,Debit Card,COMPLETED
+ORD00098,2025-12-15,1003,Kabir Rao,Bengaluru,Karnataka,203,USB-C Hub,Accessories,3,1899,0.1,Net Banking,COMPLETED
+ORD00099,2025-12-26,1010,Zara Joshi,Jaipur,Rajasthan,201,Wireless Mouse,Accessories,2,799,0.15,Cash on Delivery,COMPLETED
+ORD00100,2025-01-06,1005,Ishaan Gupta,Delhi,Delhi,206,Desk Lamp,Furniture,1,999,0,UPI,COMPLETED
+ORD00101,2025-01-17,1012,Kiara Roy,Indore,Madhya Pradesh,203,USB-C Hub,Accessories,4,1899,0.05,Credit Card,COMPLETED
+ORD00102,2025-01-28,1007,Reyansh Das,Kolkata,West Bengal,201,Wireless Mouse,Accessories,3,799,0.1,Debit Card,COMPLETED
+ORD00103,2025-02-08,1002,Diya Shah,Pune,Maharashtra,206,Desk Lamp,Furniture,2,999,0.15,Net Banking,COMPLETED
+ORD00104,2025-02-19,1009,Arjun Patel,Ahmedabad,Gujarat,203,USB-C Hub,Accessories,1,1899,0,Cash on Delivery,COMPLETED
+ORD00105,2025-03-02,1004,Anaya Iyer,Chennai,Tamil Nadu,201,Wireless Mouse,Accessories,4,799,0.05,UPI,COMPLETED
+ORD00106,2025-03-13,1011,Vihaan Sen,Lucknow,Uttar Pradesh,206,Desk Lamp,Furniture,3,999,0.1,Credit Card,COMPLETED
+ORD00107,2025-03-24,1006,Sara Khan,Hyderabad,Telangana,203,USB-C Hub,Accessories,2,1899,0.15,Debit Card,COMPLETED
+ORD00108,2025-04-04,1001,Aarav Mehta,Mumbai,Maharashtra,201,Wireless Mouse,Accessories,1,799,0,Net Banking,COMPLETED
+ORD00109,2025-04-15,1008,Myra Nair,Kochi,Kerala,206,Desk Lamp,Furniture,4,999,0.05,Cash on Delivery,COMPLETED
+ORD00110,2025-04-26,1003,Kabir Rao,Bengaluru,Karnataka,203,USB-C Hub,Accessories,3,1899,0.1,UPI,COMPLETED
+ORD00111,2025-05-07,1010,Zara Joshi,Jaipur,Rajasthan,201,Wireless Mouse,Accessories,2,799,0.15,Credit Card,COMPLETED
+ORD00112,2025-05-18,1005,Ishaan Gupta,Delhi,Delhi,206,Desk Lamp,Furniture,1,999,0,Debit Card,COMPLETED
+ORD00113,2025-05-29,1012,Kiara Roy,Indore,Madhya Pradesh,203,USB-C Hub,Accessories,4,1899,0.05,Net Banking,COMPLETED
+ORD00114,2025-06-09,1007,Reyansh Das,Kolkata,West Bengal,201,Wireless Mouse,Accessories,3,799,0.1,Cash on Delivery,COMPLETED
+ORD00115,2025-06-20,1002,Diya Shah,Pune,Maharashtra,206,Desk Lamp,Furniture,2,999,0.15,UPI,COMPLETED
+ORD00116,2025-07-01,1009,Arjun Patel,Ahmedabad,Gujarat,203,USB-C Hub,Accessories,1,1899,0,Credit Card,CANCELLED
+ORD00117,2025-07-12,1004,Anaya Iyer,Chennai,Tamil Nadu,201,Wireless Mouse,Accessories,4,799,0.05,Debit Card,COMPLETED
+ORD00118,2025-07-23,1011,Vihaan Sen,Lucknow,Uttar Pradesh,206,Desk Lamp,Furniture,3,999,0.1,Net Banking,COMPLETED
+ORD00119,2025-08-03,1006,Sara Khan,Hyderabad,Telangana,203,USB-C Hub,Accessories,2,1899,0.15,Cash on Delivery,COMPLETED
+ORD00120,2025-08-14,1001,Aarav Mehta,Mumbai,Maharashtra,201,Wireless Mouse,Accessories,1,799,0,UPI,COMPLETED
+ORD00121,2025-08-25,1008,Myra Nair,Kochi,Kerala,206,Desk Lamp,Furniture,4,999,0.05,Credit Card,COMPLETED
+ORD00122,2025-09-05,1003,Kabir Rao,Bengaluru,Karnataka,203,USB-C Hub,Accessories,3,1899,0.1,Debit Card,COMPLETED
+ORD00123,2025-09-16,1010,Zara Joshi,Jaipur,Rajasthan,201,Wireless Mouse,Accessories,2,799,0.15,Net Banking,COMPLETED
+ORD00124,2025-09-27,1005,Ishaan Gupta,Delhi,Delhi,206,Desk Lamp,Furniture,1,999,0,Cash on Delivery,RETURNED
+ORD00125,2025-10-08,1012,Kiara Roy,Indore,Madhya Pradesh,203,USB-C Hub,Accessories,4,1899,0.05,UPI,COMPLETED
+ORD00126,2025-10-19,1007,Reyansh Das,Kolkata,West Bengal,201,Wireless Mouse,Accessories,3,799,0.1,Credit Card,COMPLETED
+ORD00127,2025-10-30,1002,Diya Shah,Pune,Maharashtra,206,Desk Lamp,Furniture,2,999,0.15,Debit Card,COMPLETED
+ORD00128,2025-11-10,1009,Arjun Patel,Ahmedabad,Gujarat,203,USB-C Hub,Accessories,1,1899,0,Net Banking,COMPLETED
+ORD00129,2025-11-21,1004,Anaya Iyer,Chennai,Tamil Nadu,201,Wireless Mouse,Accessories,4,799,0.05,Cash on Delivery,COMPLETED
+ORD00130,2025-12-02,1011,Vihaan Sen,Lucknow,Uttar Pradesh,206,Desk Lamp,Furniture,3,999,0.1,UPI,COMPLETED
+ORD00131,2025-12-13,1006,Sara Khan,Hyderabad,Telangana,203,USB-C Hub,Accessories,2,1899,0.15,Credit Card,COMPLETED
+ORD00132,2025-12-24,1001,Aarav Mehta,Mumbai,Maharashtra,201,Wireless Mouse,Accessories,1,799,0,Debit Card,COMPLETED
+ORD00133,2025-01-04,1008,Myra Nair,Kochi,Kerala,206,Desk Lamp,Furniture,4,999,0.05,Net Banking,COMPLETED
+ORD00134,2025-01-15,1003,Kabir Rao,Bengaluru,Karnataka,203,USB-C Hub,Accessories,3,1899,0.1,Cash on Delivery,COMPLETED
+ORD00135,2025-01-26,1010,Zara Joshi,Jaipur,Rajasthan,201,Wireless Mouse,Accessories,2,799,0.15,UPI,COMPLETED
+ORD00136,2025-02-06,1005,Ishaan Gupta,Delhi,Delhi,206,Desk Lamp,Furniture,1,999,0,Credit Card,COMPLETED
+ORD00137,2025-02-17,1012,Kiara Roy,Indore,Madhya Pradesh,203,USB-C Hub,Accessories,4,1899,0.05,Debit Card,COMPLETED
+ORD00138,2025-02-28,1007,Reyansh Das,Kolkata,West Bengal,201,Wireless Mouse,Accessories,3,799,0.1,Net Banking,COMPLETED
+ORD00139,2025-03-11,1002,Diya Shah,Pune,Maharashtra,206,Desk Lamp,Furniture,2,999,0.15,Cash on Delivery,COMPLETED
+ORD00140,2025-03-22,1009,Arjun Patel,Ahmedabad,Gujarat,203,USB-C Hub,Accessories,1,1899,0,UPI,COMPLETED
+ORD00141,2025-04-02,1004,Anaya Iyer,Chennai,Tamil Nadu,201,Wireless Mouse,Accessories,4,799,0.05,Credit Card,COMPLETED
+ORD00142,2025-04-13,1011,Vihaan Sen,Lucknow,Uttar Pradesh,206,Desk Lamp,Furniture,3,999,0.1,Debit Card,COMPLETED
+ORD00143,2025-04-24,1006,Sara Khan,Hyderabad,Telangana,203,USB-C Hub,Accessories,2,1899,0.15,Net Banking,COMPLETED
+ORD00144,2025-05-05,1001,Aarav Mehta,Mumbai,Maharashtra,201,Wireless Mouse,Accessories,1,799,0,Cash on Delivery,COMPLETED
+ORD00145,2025-05-16,1008,Myra Nair,Kochi,Kerala,206,Desk Lamp,Furniture,4,999,0.05,UPI,CANCELLED
+ORD00146,2025-05-27,1003,Kabir Rao,Bengaluru,Karnataka,203,USB-C Hub,Accessories,3,1899,0.1,Credit Card,COMPLETED
+ORD00147,2025-06-07,1010,Zara Joshi,Jaipur,Rajasthan,201,Wireless Mouse,Accessories,2,799,0.15,Debit Card,COMPLETED
+ORD00148,2025-06-18,1005,Ishaan Gupta,Delhi,Delhi,206,Desk Lamp,Furniture,1,999,0,Net Banking,COMPLETED
+ORD00149,2025-06-29,1012,Kiara Roy,Indore,Madhya Pradesh,203,USB-C Hub,Accessories,4,1899,0.05,Cash on Delivery,COMPLETED
+ORD00150,2025-07-10,1007,Reyansh Das,Kolkata,West Bengal,201,Wireless Mouse,Accessories,3,799,0.1,UPI,COMPLETED
+ORD00151,2025-07-21,1002,Diya Shah,Pune,Maharashtra,206,Desk Lamp,Furniture,2,999,0.15,Credit Card,COMPLETED
+ORD00152,2025-08-01,1009,Arjun Patel,Ahmedabad,Gujarat,203,USB-C Hub,Accessories,1,1899,0,Debit Card,COMPLETED
+ORD00153,2025-08-12,1004,Anaya Iyer,Chennai,Tamil Nadu,201,Wireless Mouse,Accessories,4,799,0.05,Net Banking,COMPLETED
+ORD00154,2025-08-23,1011,Vihaan Sen,Lucknow,Uttar Pradesh,206,Desk Lamp,Furniture,3,999,0.1,Cash on Delivery,COMPLETED
+ORD00155,2025-09-03,1006,Sara Khan,Hyderabad,Telangana,203,USB-C Hub,Accessories,2,1899,0.15,UPI,RETURNED
+ORD00156,2025-09-14,1001,Aarav Mehta,Mumbai,Maharashtra,201,Wireless Mouse,Accessories,1,799,0,Credit Card,COMPLETED
+ORD00157,2025-09-25,1008,Myra Nair,Kochi,Kerala,206,Desk Lamp,Furniture,4,999,0.05,Debit Card,COMPLETED
+ORD00158,2025-10-06,1003,Kabir Rao,Bengaluru,Karnataka,203,USB-C Hub,Accessories,3,1899,0.1,Net Banking,COMPLETED
+ORD00159,2025-10-17,1010,Zara Joshi,Jaipur,Rajasthan,201,Wireless Mouse,Accessories,2,799,0.15,Cash on Delivery,COMPLETED
+ORD00160,2025-10-28,1005,Ishaan Gupta,Delhi,Delhi,206,Desk Lamp,Furniture,1,999,0,UPI,COMPLETED
+ORD00161,2025-11-08,1012,Kiara Roy,Indore,Madhya Pradesh,203,USB-C Hub,Accessories,4,1899,0.05,Credit Card,COMPLETED
+ORD00162,2025-11-19,1007,Reyansh Das,Kolkata,West Bengal,201,Wireless Mouse,Accessories,3,799,0.1,Debit Card,COMPLETED
+ORD00163,2025-11-30,1002,Diya Shah,Pune,Maharashtra,206,Desk Lamp,Furniture,2,999,0.15,Net Banking,COMPLETED
+ORD00164,2025-12-11,1009,Arjun Patel,Ahmedabad,Gujarat,203,USB-C Hub,Accessories,1,1899,0,Cash on Delivery,COMPLETED
+ORD00165,2025-12-22,1004,Anaya Iyer,Chennai,Tamil Nadu,201,Wireless Mouse,Accessories,4,799,0.05,UPI,COMPLETED
+ORD00166,2025-01-02,1011,Vihaan Sen,Lucknow,Uttar Pradesh,206,Desk Lamp,Furniture,3,999,0.1,Credit Card,COMPLETED
+ORD00167,2025-01-13,1006,Sara Khan,Hyderabad,Telangana,203,USB-C Hub,Accessories,2,1899,0.15,Debit Card,COMPLETED
+ORD00168,2025-01-24,1001,Aarav Mehta,Mumbai,Maharashtra,201,Wireless Mouse,Accessories,1,799,0,Net Banking,COMPLETED
+ORD00169,2025-02-04,1008,Myra Nair,Kochi,Kerala,206,Desk Lamp,Furniture,4,999,0.05,Cash on Delivery,COMPLETED
+ORD00170,2025-02-15,1003,Kabir Rao,Bengaluru,Karnataka,203,USB-C Hub,Accessories,3,1899,0.1,UPI,COMPLETED
+ORD00171,2025-02-26,1010,Zara Joshi,Jaipur,Rajasthan,201,Wireless Mouse,Accessories,2,799,0.15,Credit Card,COMPLETED
+ORD00172,2025-03-09,1005,Ishaan Gupta,Delhi,Delhi,206,Desk Lamp,Furniture,1,999,0,Debit Card,COMPLETED
+ORD00173,2025-03-20,1012,Kiara Roy,Indore,Madhya Pradesh,203,USB-C Hub,Accessories,4,1899,0.05,Net Banking,COMPLETED
+ORD00174,2025-03-31,1007,Reyansh Das,Kolkata,West Bengal,201,Wireless Mouse,Accessories,3,799,0.1,Cash on Delivery,CANCELLED
+ORD00175,2025-04-11,1002,Diya Shah,Pune,Maharashtra,206,Desk Lamp,Furniture,2,999,0.15,UPI,COMPLETED
+ORD00176,2025-04-22,1009,Arjun Patel,Ahmedabad,Gujarat,203,USB-C Hub,Accessories,1,1899,0,Credit Card,COMPLETED
+ORD00177,2025-05-03,1004,Anaya Iyer,Chennai,Tamil Nadu,201,Wireless Mouse,Accessories,4,799,0.05,Debit Card,COMPLETED
+ORD00178,2025-05-14,1011,Vihaan Sen,Lucknow,Uttar Pradesh,206,Desk Lamp,Furniture,3,999,0.1,Net Banking,COMPLETED
+ORD00179,2025-05-25,1006,Sara Khan,Hyderabad,Telangana,203,USB-C Hub,Accessories,2,1899,0.15,Cash on Delivery,COMPLETED
+ORD00180,2025-06-05,1001,Aarav Mehta,Mumbai,Maharashtra,201,Wireless Mouse,Accessories,1,799,0,UPI,COMPLETED
+ORD00181,2025-06-16,1008,Myra Nair,Kochi,Kerala,206,Desk Lamp,Furniture,4,999,0.05,Credit Card,COMPLETED
+ORD00182,2025-06-27,1003,Kabir Rao,Bengaluru,Karnataka,203,USB-C Hub,Accessories,3,1899,0.1,Debit Card,COMPLETED
+ORD00183,2025-07-08,1010,Zara Joshi,Jaipur,Rajasthan,201,Wireless Mouse,Accessories,2,799,0.15,Net Banking,COMPLETED
+ORD00184,2025-07-19,1005,Ishaan Gupta,Delhi,Delhi,206,Desk Lamp,Furniture,1,999,0,Cash on Delivery,COMPLETED
+ORD00185,2025-07-30,1012,Kiara Roy,Indore,Madhya Pradesh,203,USB-C Hub,Accessories,4,1899,0.05,UPI,COMPLETED
+ORD00186,2025-08-10,1007,Reyansh Das,Kolkata,West Bengal,201,Wireless Mouse,Accessories,3,799,0.1,Credit Card,RETURNED
+ORD00187,2025-08-21,1002,Diya Shah,Pune,Maharashtra,206,Desk Lamp,Furniture,2,999,0.15,Debit Card,COMPLETED
+ORD00188,2025-09-01,1009,Arjun Patel,Ahmedabad,Gujarat,203,USB-C Hub,Accessories,1,1899,0,Net Banking,COMPLETED
+ORD00189,2025-09-12,1004,Anaya Iyer,Chennai,Tamil Nadu,201,Wireless Mouse,Accessories,4,799,0.05,Cash on Delivery,COMPLETED
+ORD00190,2025-09-23,1011,Vihaan Sen,Lucknow,Uttar Pradesh,206,Desk Lamp,Furniture,3,999,0.1,UPI,COMPLETED
+ORD00191,2025-10-04,1006,Sara Khan,Hyderabad,Telangana,203,USB-C Hub,Accessories,2,1899,0.15,Credit Card,COMPLETED
+ORD00192,2025-10-15,1001,Aarav Mehta,Mumbai,Maharashtra,201,Wireless Mouse,Accessories,1,799,0,Debit Card,COMPLETED
+ORD00193,2025-10-26,1008,Myra Nair,Kochi,Kerala,206,Desk Lamp,Furniture,4,999,0.05,Net Banking,COMPLETED
+ORD00194,2025-11-06,1003,Kabir Rao,Bengaluru,Karnataka,203,USB-C Hub,Accessories,3,1899,0.1,Cash on Delivery,COMPLETED
+ORD00195,2025-11-17,1010,Zara Joshi,Jaipur,Rajasthan,201,Wireless Mouse,Accessories,2,799,0.15,UPI,COMPLETED
+ORD00196,2025-11-28,1005,Ishaan Gupta,Delhi,Delhi,206,Desk Lamp,Furniture,1,999,0,Credit Card,COMPLETED
+ORD00197,2025-12-09,1012,Kiara Roy,Indore,Madhya Pradesh,203,USB-C Hub,Accessories,4,1899,0.05,Debit Card,COMPLETED
+ORD00198,2025-12-20,1007,Reyansh Das,Kolkata,West Bengal,201,Wireless Mouse,Accessories,3,799,0.1,Net Banking,COMPLETED
+ORD00199,2025-12-31,1002,Diya Shah,Pune,Maharashtra,206,Desk Lamp,Furniture,2,999,0.15,Cash on Delivery,COMPLETED
+ORD00200,2025-01-11,1009,Arjun Patel,Ahmedabad,Gujarat,203,USB-C Hub,Accessories,1,1899,0,UPI,COMPLETED
+ORD00201,2025-01-22,1004,Anaya Iyer,Chennai,Tamil Nadu,201,Wireless Mouse,Accessories,4,799,0.05,Credit Card,COMPLETED
+ORD00202,2025-02-02,1011,Vihaan Sen,Lucknow,Uttar Pradesh,206,Desk Lamp,Furniture,3,999,0.1,Debit Card,COMPLETED
+ORD00203,2025-02-13,1006,Sara Khan,Hyderabad,Telangana,203,USB-C Hub,Accessories,2,1899,0.15,Net Banking,CANCELLED
+ORD00204,2025-02-24,1001,Aarav Mehta,Mumbai,Maharashtra,201,Wireless Mouse,Accessories,1,799,0,Cash on Delivery,COMPLETED
+ORD00205,2025-03-07,1008,Myra Nair,Kochi,Kerala,206,Desk Lamp,Furniture,4,999,0.05,UPI,COMPLETED
+ORD00206,2025-03-18,1003,Kabir Rao,Bengaluru,Karnataka,203,USB-C Hub,Accessories,3,1899,0.1,Credit Card,COMPLETED
+ORD00207,2025-03-29,1010,Zara Joshi,Jaipur,Rajasthan,201,Wireless Mouse,Accessories,2,799,0.15,Debit Card,COMPLETED
+ORD00208,2025-04-09,1005,Ishaan Gupta,Delhi,Delhi,206,Desk Lamp,Furniture,1,999,0,Net Banking,COMPLETED
+ORD00209,2025-04-20,1012,Kiara Roy,Indore,Madhya Pradesh,203,USB-C Hub,Accessories,4,1899,0.05,Cash on Delivery,COMPLETED
+ORD00210,2025-05-01,1007,Reyansh Das,Kolkata,West Bengal,201,Wireless Mouse,Accessories,3,799,0.1,UPI,COMPLETED
+ORD00211,2025-05-12,1002,Diya Shah,Pune,Maharashtra,206,Desk Lamp,Furniture,2,999,0.15,Credit Card,COMPLETED
+ORD00212,2025-05-23,1009,Arjun Patel,Ahmedabad,Gujarat,203,USB-C Hub,Accessories,1,1899,0,Debit Card,COMPLETED
+ORD00213,2025-06-03,1004,Anaya Iyer,Chennai,Tamil Nadu,201,Wireless Mouse,Accessories,4,799,0.05,Net Banking,COMPLETED
+ORD00214,2025-06-14,1011,Vihaan Sen,Lucknow,Uttar Pradesh,206,Desk Lamp,Furniture,3,999,0.1,Cash on Delivery,COMPLETED
+ORD00215,2025-06-25,1006,Sara Khan,Hyderabad,Telangana,203,USB-C Hub,Accessories,2,1899,0.15,UPI,COMPLETED
+ORD00216,2025-07-06,1001,Aarav Mehta,Mumbai,Maharashtra,201,Wireless Mouse,Accessories,1,799,0,Credit Card,COMPLETED
+ORD00217,2025-07-17,1008,Myra Nair,Kochi,Kerala,206,Desk Lamp,Furniture,4,999,0.05,Debit Card,RETURNED
+ORD00218,2025-07-28,1003,Kabir Rao,Bengaluru,Karnataka,203,USB-C Hub,Accessories,3,1899,0.1,Net Banking,COMPLETED
+ORD00219,2025-08-08,1010,Zara Joshi,Jaipur,Rajasthan,201,Wireless Mouse,Accessories,2,799,0.15,Cash on Delivery,COMPLETED
+ORD00220,2025-08-19,1005,Ishaan Gupta,Delhi,Delhi,206,Desk Lamp,Furniture,1,999,0,UPI,COMPLETED
+ORD00221,2025-08-30,1012,Kiara Roy,Indore,Madhya Pradesh,203,USB-C Hub,Accessories,4,1899,0.05,Credit Card,COMPLETED
+ORD00222,2025-09-10,1007,Reyansh Das,Kolkata,West Bengal,201,Wireless Mouse,Accessories,3,799,0.1,Debit Card,COMPLETED
+ORD00223,2025-09-21,1002,Diya Shah,Pune,Maharashtra,206,Desk Lamp,Furniture,2,999,0.15,Net Banking,COMPLETED
+ORD00224,2025-10-02,1009,Arjun Patel,Ahmedabad,Gujarat,203,USB-C Hub,Accessories,1,1899,0,Cash on Delivery,COMPLETED
+ORD00225,2025-10-13,1004,Anaya Iyer,Chennai,Tamil Nadu,201,Wireless Mouse,Accessories,4,799,0.05,UPI,COMPLETED
+ORD00226,2025-10-24,1011,Vihaan Sen,Lucknow,Uttar Pradesh,206,Desk Lamp,Furniture,3,999,0.1,Credit Card,COMPLETED
+ORD00227,2025-11-04,1006,Sara Khan,Hyderabad,Telangana,203,USB-C Hub,Accessories,2,1899,0.15,Debit Card,COMPLETED
+ORD00228,2025-11-15,1001,Aarav Mehta,Mumbai,Maharashtra,201,Wireless Mouse,Accessories,1,799,0,Net Banking,COMPLETED
+ORD00229,2025-11-26,1008,Myra Nair,Kochi,Kerala,206,Desk Lamp,Furniture,4,999,0.05,Cash on Delivery,COMPLETED
+ORD00230,2025-12-07,1003,Kabir Rao,Bengaluru,Karnataka,203,USB-C Hub,Accessories,3,1899,0.1,UPI,COMPLETED
+ORD00231,2025-12-18,1010,Zara Joshi,Jaipur,Rajasthan,201,Wireless Mouse,Accessories,2,799,0.15,Credit Card,COMPLETED
+ORD00232,2025-12-29,1005,Ishaan Gupta,Delhi,Delhi,206,Desk Lamp,Furniture,1,999,0,Debit Card,CANCELLED
+ORD00233,2025-01-09,1012,Kiara Roy,Indore,Madhya Pradesh,203,USB-C Hub,Accessories,4,1899,0.05,Net Banking,COMPLETED
+ORD00234,2025-01-20,1007,Reyansh Das,Kolkata,West Bengal,201,Wireless Mouse,Accessories,3,799,0.1,Cash on Delivery,COMPLETED
+ORD00235,2025-01-31,1002,Diya Shah,Pune,Maharashtra,206,Desk Lamp,Furniture,2,999,0.15,UPI,COMPLETED
+ORD00236,2025-02-11,1009,Arjun Patel,Ahmedabad,Gujarat,203,USB-C Hub,Accessories,1,1899,0,Credit Card,COMPLETED
+ORD00237,2025-02-22,1004,Anaya Iyer,Chennai,Tamil Nadu,201,Wireless Mouse,Accessories,4,799,0.05,Debit Card,COMPLETED
+ORD00238,2025-03-05,1011,Vihaan Sen,Lucknow,Uttar Pradesh,206,Desk Lamp,Furniture,3,999,0.1,Net Banking,COMPLETED
+ORD00239,2025-03-16,1006,Sara Khan,Hyderabad,Telangana,203,USB-C Hub,Accessories,2,1899,0.15,Cash on Delivery,COMPLETED
+ORD00240,2025-03-27,1001,Aarav Mehta,Mumbai,Maharashtra,201,Wireless Mouse,Accessories,1,799,0,UPI,COMPLETED
+ORD00241,2025-04-07,1008,Myra Nair,Kochi,Kerala,206,Desk Lamp,Furniture,4,999,0.05,Credit Card,COMPLETED
+ORD00242,2025-04-18,1003,Kabir Rao,Bengaluru,Karnataka,203,USB-C Hub,Accessories,3,1899,0.1,Debit Card,COMPLETED
+ORD00243,2025-04-29,1010,Zara Joshi,Jaipur,Rajasthan,201,Wireless Mouse,Accessories,2,799,0.15,Net Banking,COMPLETED
+ORD00244,2025-05-10,1005,Ishaan Gupta,Delhi,Delhi,206,Desk Lamp,Furniture,1,999,0,Cash on Delivery,COMPLETED
+ORD00245,2025-05-21,1012,Kiara Roy,Indore,Madhya Pradesh,203,USB-C Hub,Accessories,4,1899,0.05,UPI,COMPLETED
+ORD00246,2025-06-01,1007,Reyansh Das,Kolkata,West Bengal,201,Wireless Mouse,Accessories,3,799,0.1,Credit Card,COMPLETED
+ORD00247,2025-06-12,1002,Diya Shah,Pune,Maharashtra,206,Desk Lamp,Furniture,2,999,0.15,Debit Card,COMPLETED
+ORD00248,2025-06-23,1009,Arjun Patel,Ahmedabad,Gujarat,203,USB-C Hub,Accessories,1,1899,0,Net Banking,RETURNED
+ORD00249,2025-07-04,1004,Anaya Iyer,Chennai,Tamil Nadu,201,Wireless Mouse,Accessories,4,799,0.05,Cash on Delivery,COMPLETED
+ORD00250,2025-07-15,1011,Vihaan Sen,Lucknow,Uttar Pradesh,206,Desk Lamp,Furniture,3,999,0.1,UPI,COMPLETED
+ORD00251,2025-07-26,1006,Sara Khan,Hyderabad,Telangana,203,USB-C Hub,Accessories,2,1899,0.15,Credit Card,COMPLETED
+ORD00252,2025-08-06,1001,Aarav Mehta,Mumbai,Maharashtra,201,Wireless Mouse,Accessories,1,799,0,Debit Card,COMPLETED
+ORD00253,2025-08-17,1008,Myra Nair,Kochi,Kerala,206,Desk Lamp,Furniture,4,999,0.05,Net Banking,COMPLETED
+ORD00254,2025-08-28,1003,Kabir Rao,Bengaluru,Karnataka,203,USB-C Hub,Accessories,3,1899,0.1,Cash on Delivery,COMPLETED
+ORD00255,2025-09-08,1010,Zara Joshi,Jaipur,Rajasthan,201,Wireless Mouse,Accessories,2,799,0.15,UPI,COMPLETED
+ORD00256,2025-09-19,1005,Ishaan Gupta,Delhi,Delhi,206,Desk Lamp,Furniture,1,999,0,Credit Card,COMPLETED
+ORD00257,2025-09-30,1012,Kiara Roy,Indore,Madhya Pradesh,203,USB-C Hub,Accessories,4,1899,0.05,Debit Card,COMPLETED
+ORD00258,2025-10-11,1007,Reyansh Das,Kolkata,West Bengal,201,Wireless Mouse,Accessories,3,799,0.1,Net Banking,COMPLETED
+ORD00259,2025-10-22,1002,Diya Shah,Pune,Maharashtra,206,Desk Lamp,Furniture,2,999,0.15,Cash on Delivery,COMPLETED
+ORD00260,2025-11-02,1009,Arjun Patel,Ahmedabad,Gujarat,203,USB-C Hub,Accessories,1,1899,0,UPI,COMPLETED
+ORD00261,2025-11-13,1004,Anaya Iyer,Chennai,Tamil Nadu,201,Wireless Mouse,Accessories,4,799,0.05,Credit Card,CANCELLED
+ORD00262,2025-11-24,1011,Vihaan Sen,Lucknow,Uttar Pradesh,206,Desk Lamp,Furniture,3,999,0.1,Debit Card,COMPLETED
+ORD00263,2025-12-05,1006,Sara Khan,Hyderabad,Telangana,203,USB-C Hub,Accessories,2,1899,0.15,Net Banking,COMPLETED
+ORD00264,2025-12-16,1001,Aarav Mehta,Mumbai,Maharashtra,201,Wireless Mouse,Accessories,1,799,0,Cash on Delivery,COMPLETED
+ORD00265,2025-12-27,1008,Myra Nair,Kochi,Kerala,206,Desk Lamp,Furniture,4,999,0.05,UPI,COMPLETED
+ORD00266,2025-01-07,1003,Kabir Rao,Bengaluru,Karnataka,203,USB-C Hub,Accessories,3,1899,0.1,Credit Card,COMPLETED
+ORD00267,2025-01-18,1010,Zara Joshi,Jaipur,Rajasthan,201,Wireless Mouse,Accessories,2,799,0.15,Debit Card,COMPLETED
+ORD00268,2025-01-29,1005,Ishaan Gupta,Delhi,Delhi,206,Desk Lamp,Furniture,1,999,0,Net Banking,COMPLETED
+ORD00269,2025-02-09,1012,Kiara Roy,Indore,Madhya Pradesh,203,USB-C Hub,Accessories,4,1899,0.05,Cash on Delivery,COMPLETED
+ORD00270,2025-02-20,1007,Reyansh Das,Kolkata,West Bengal,201,Wireless Mouse,Accessories,3,799,0.1,UPI,COMPLETED
+ORD00271,2025-03-03,1002,Diya Shah,Pune,Maharashtra,206,Desk Lamp,Furniture,2,999,0.15,Credit Card,COMPLETED
+ORD00272,2025-03-14,1009,Arjun Patel,Ahmedabad,Gujarat,203,USB-C Hub,Accessories,1,1899,0,Debit Card,COMPLETED
+ORD00273,2025-03-25,1004,Anaya Iyer,Chennai,Tamil Nadu,201,Wireless Mouse,Accessories,4,799,0.05,Net Banking,COMPLETED
+ORD00274,2025-04-05,1011,Vihaan Sen,Lucknow,Uttar Pradesh,206,Desk Lamp,Furniture,3,999,0.1,Cash on Delivery,COMPLETED
+ORD00275,2025-04-16,1006,Sara Khan,Hyderabad,Telangana,203,USB-C Hub,Accessories,2,1899,0.15,UPI,COMPLETED
+ORD00276,2025-04-27,1001,Aarav Mehta,Mumbai,Maharashtra,201,Wireless Mouse,Accessories,1,799,0,Credit Card,COMPLETED
+ORD00277,2025-05-08,1008,Myra Nair,Kochi,Kerala,206,Desk Lamp,Furniture,4,999,0.05,Debit Card,COMPLETED
+ORD00278,2025-05-19,1003,Kabir Rao,Bengaluru,Karnataka,203,USB-C Hub,Accessories,3,1899,0.1,Net Banking,COMPLETED
+ORD00279,2025-05-30,1010,Zara Joshi,Jaipur,Rajasthan,201,Wireless Mouse,Accessories,2,799,0.15,Cash on Delivery,RETURNED
+ORD00280,2025-06-10,1005,Ishaan Gupta,Delhi,Delhi,206,Desk Lamp,Furniture,1,999,0,UPI,COMPLETED
+ORD00281,2025-06-21,1012,Kiara Roy,Indore,Madhya Pradesh,203,USB-C Hub,Accessories,4,1899,0.05,Credit Card,COMPLETED
+ORD00282,2025-07-02,1007,Reyansh Das,Kolkata,West Bengal,201,Wireless Mouse,Accessories,3,799,0.1,Debit Card,COMPLETED
+ORD00283,2025-07-13,1002,Diya Shah,Pune,Maharashtra,206,Desk Lamp,Furniture,2,999,0.15,Net Banking,COMPLETED
+ORD00284,2025-07-24,1009,Arjun Patel,Ahmedabad,Gujarat,203,USB-C Hub,Accessories,1,1899,0,Cash on Delivery,COMPLETED
+ORD00285,2025-08-04,1004,Anaya Iyer,Chennai,Tamil Nadu,201,Wireless Mouse,Accessories,4,799,0.05,UPI,COMPLETED
+ORD00286,2025-08-15,1011,Vihaan Sen,Lucknow,Uttar Pradesh,206,Desk Lamp,Furniture,3,999,0.1,Credit Card,COMPLETED
+ORD00287,2025-08-26,1006,Sara Khan,Hyderabad,Telangana,203,USB-C Hub,Accessories,2,1899,0.15,Debit Card,COMPLETED
+ORD00288,2025-09-06,1001,Aarav Mehta,Mumbai,Maharashtra,201,Wireless Mouse,Accessories,1,799,0,Net Banking,COMPLETED
+ORD00289,2025-09-17,1008,Myra Nair,Kochi,Kerala,206,Desk Lamp,Furniture,4,999,0.05,Cash on Delivery,COMPLETED
+ORD00290,2025-09-28,1003,Kabir Rao,Bengaluru,Karnataka,203,USB-C Hub,Accessories,3,1899,0.1,UPI,CANCELLED
+ORD00291,2025-10-09,1010,Zara Joshi,Jaipur,Rajasthan,201,Wireless Mouse,Accessories,2,799,0.15,Credit Card,COMPLETED
+ORD00292,2025-10-20,1005,Ishaan Gupta,Delhi,Delhi,206,Desk Lamp,Furniture,1,999,0,Debit Card,COMPLETED
+ORD00293,2025-10-31,1012,Kiara Roy,Indore,Madhya Pradesh,203,USB-C Hub,Accessories,4,1899,0.05,Net Banking,COMPLETED
+ORD00294,2025-11-11,1007,Reyansh Das,Kolkata,West Bengal,201,Wireless Mouse,Accessories,3,799,0.1,Cash on Delivery,COMPLETED
+ORD00295,2025-11-22,1002,Diya Shah,Pune,Maharashtra,206,Desk Lamp,Furniture,2,999,0.15,UPI,COMPLETED
+ORD00296,2025-12-03,1009,Arjun Patel,Ahmedabad,Gujarat,203,USB-C Hub,Accessories,1,1899,0,Credit Card,COMPLETED
+ORD00297,2025-12-14,1004,Anaya Iyer,Chennai,Tamil Nadu,201,Wireless Mouse,Accessories,4,799,0.05,Debit Card,COMPLETED
+ORD00298,2025-12-25,1011,Vihaan Sen,Lucknow,Uttar Pradesh,206,Desk Lamp,Furniture,3,999,0.1,Net Banking,COMPLETED
+ORD00299,2025-01-05,1006,Sara Khan,Hyderabad,Telangana,203,USB-C Hub,Accessories,2,1899,0.15,Cash on Delivery,COMPLETED
+ORD00300,2025-01-16,1001,Aarav Mehta,Mumbai,Maharashtra,201,Wireless Mouse,Accessories,1,799,0,UPI,COMPLETED
